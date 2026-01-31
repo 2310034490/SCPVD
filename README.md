@@ -10,7 +10,7 @@ python ../evaluator/evaluator.py -a ../dataset/data/reveal/test_reveal.jsonl -p 
 
 ##Reveal (Chrome + Debian)
 https://drive.google.com/drive/folders/1KuIYgFcvWUXheDhT--cBALsfy1I4utOy
-vulnerables.json（漏洞样本）和 non-vulnerables.json（非漏洞样本） -> reveal.json -> train_reveal.jsonl + valid_reveal.jsonl + test_reveal.jsonl
+vulnerables.json + non-vulnerables.json -> reveal.json -> train_reveal.jsonl + valid_reveal.jsonl + test_reveal.jsonl
 
 ##Devign (FFmpeg+Qemu)
 https://drive.google.com/file/d/1x6hoF7G-tSYxg8AFybggypLZgMGDNHfF/edit
