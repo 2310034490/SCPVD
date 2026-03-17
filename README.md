@@ -4,7 +4,7 @@ This is the source code to the paper "SCPVD: Scalable and Efficient Vulnerabilit
 
 # Approach
 
-![](framework.pdf)
+![](framework.png)
 
 # About the Datasets
 
